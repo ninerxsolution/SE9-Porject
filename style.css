@@ -1,0 +1,11 @@
+.btn-naja button{
+    width: 100px;
+    margin: 15px;
+}
+.btn-naja{
+    display: inline;
+    width: 100%;
+    padding: 10px;
+    background-color: antiquewhite;
+    color:red;
+}
